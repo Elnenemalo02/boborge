@@ -1,0 +1,1633 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]><html class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="http://broker.commercegurus.com/xmlrpc.php">        
+        <link rel="shortcut icon" href="images/broker_favicon.png"/>
+
+        <link rel="apple-touch-icon-precomposed" href="images/broker_favicon_144.png"/>
+       <!--[if lte IE 9]><script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script><![endif]-->
+	<title>Home - Broker Theme Demo</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="We provide expert financial advice. With over 20 years of experience we’ll ensure you’re getting the best guidance from the smartest people in the industry."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://broker.commercegurus.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Broker Theme Demo" />
+<meta property="og:description" content="We provide expert financial advice. With over 20 years of experience we’ll ensure you’re getting the best guidance from the smartest people in the industry." />
+<meta property="og:url" content="http://broker.commercegurus.com/" />
+<meta property="og:site_name" content="Broker Theme Demo" />
+<meta property="og:image" content="images/broker_slide_table_a.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="We provide expert financial advice. With over 20 years of experience we’ll ensure you’re getting the best guidance from the smartest people in the industry."/>
+<meta name="twitter:title" content="Home - Broker Theme Demo"/>
+<meta name="twitter:image" content="images/broker_slide_table_a.jpg"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/broker.commercegurus.com\/","name":"Broker Theme Demo","potentialAction":{"@type":"SearchAction","target":"http:\/\/broker.commercegurus.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Broker Theme Demo &raquo; Feed" href="http://broker.commercegurus.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Broker Theme Demo &raquo; Comments Feed" href="http://broker.commercegurus.com/comments/feed/" />
+	<script type="text/javascript">
+	window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/broker.commercegurus.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+	!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+	</script>
+	<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='layerslider-css'  href='css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg_toolkit_styles-css'  href='css/cg_toolkit.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='css/styles.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='css/woocommerce-layout.css?ver=2.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='css/woocommerce-smallscreen.css?ver=2.4.8' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='css/woocommerce.css?ver=2.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-for-wp-checkbox-css'  href='css/checkbox.min.css?ver=2.3.17' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-style-css'  href='css/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-font-awesome-css'  href='css/font-awesome.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-ionicons-css'  href='css/ionicons.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-animate-css'  href='css/animate.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-bootstrap-css'  href='css/bootstrap.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-commercegurus-css'  href='css/commercegurus.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-responsive-css'  href='css/responsive.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-livepreviewcss-css'  href='css/livepreview.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='date-time-widget-styles-css'  href='css/widget.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-for-wp-form-css'  href='css/form.min.css?ver=2.3.17' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='css/js_composer.min.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-cg_reduxopt-css'  href='http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C300%2C400%2C600%2C700%2C900%2C200italic%2C300italic%2C400italic%2C600italic%2C700italic%2C900italic%7CLora%3A400%2C700%2C400italic%2C700italic&#038;ver=1459600897' type='text/css' media='all' />
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/broker.commercegurus.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//broker.commercegurus.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.8'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/themes/broker/js/src/cond/owl.carousel.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/themes/broker/js/src/cond/modernizr.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/themes/broker/js/src/cond/scrollfix.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://broker.commercegurus.com/wp-content/plugins/date-and-time-widget/js/widget.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://broker.commercegurus.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://broker.commercegurus.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://broker.commercegurus.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<meta name="generator" content="WooCommerce 2.4.8" />
+<link rel='shortlink' href='http://broker.commercegurus.com/' />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://broker.commercegurus.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://broker.commercegurus.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+	<style type="text/css">
+
+	
+	.cg-announcements 
+	{
+	background-color: #f6f6f6;
+	}
+
+	
+	.cg-announcements,
+	.cg-announcements a,
+	.cg-announcements a:hover
+
+	{
+	color: #303030;
+	}
+
+	
+	.cta-button a {            
+	background-color: #6FC400;
+	}
+
+	
+	body .header-wrapper .cta-button a:hover, 
+	body .cg-header-fixed .cta-button a:hover {            
+	background: #64b001;
+	}
+
+	
+	body .cta-button a {            
+	color: #ffffff;
+	}
+
+	
+	.cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a:hover, 
+	.cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a:hover 
+	{
+	color: #ffffff;
+	}
+	
+	.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li:hover a,
+	.cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li:hover a,
+	.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover,
+	.cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li a:hover,
+	.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children > a:hover:after {
+	background-color: #1592c6; 
+	}
+
+	body .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a, body .cg-submenu-ddown .container > ul > li > a {
+	border-color: #1592c6; 
+	}
+
+	
+	body {
+	background-color: #f8f8f8; 
+	}
+
+	
+	
+	
+	
+	
+	
+	#main-wrapper {
+	background-color: #ffffff; 
+	}
+	
+	
+	#top,
+	.new.menu-item a:after, 
+	.bttn:before, .cg-product-cta .button:before, 
+	.slider .cg-product-cta .button:before, 
+	.widget_shopping_cart_content p.buttons a.button:before,
+	.faqs-reviews .accordionButton .icon-plus:before, 
+	.content-area ul.bullets li:before,
+	.container .mejs-controls .mejs-time-rail .mejs-time-current,
+	.wpb_toggle:before, h4.wpb_toggle:before,
+	#filters button.is-checked,
+	.tipr_content,
+	.navbar-toggle .icon-bar,
+	.cg-folding-cube .cg-cube:before,
+	#calendar_wrap caption,
+	.subfooter #mc_signup_submit,
+	.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active,
+	.page-numbers li span.current,
+	.page-numbers li a:hover,
+	.product-category-description,
+	.nav-slit h3,
+	.cg-extra-product-options li a:after,
+	.post-tags a:hover, 
+	body.single-post.has-featured-image .header-wrapper .entry-meta time,
+	#respond input#submit,
+	#respond input#submit:hover,
+	.content-area footer.entry-meta a:after,
+	body .flex-direction-nav a,
+	body.single-post .content-area footer.entry-meta a:after,
+	.content-area .medium-blog footer.entry-meta a:after,
+	.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover:after,
+	.container #mc_signup_submit,
+	.cg-overlay-feature .cg-copy span.subtitle strong,
+	.cg-overlay-slideup:hover .cg-copy,
+	.container .mc4wp-form input[type="submit"],
+	.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content,
+	.cg-primary-menu .menu > li > a strong,
+	.project-item a:hover .overlay, 
+	.wpcf7 input.wpcf7-submit,
+	.woocommerce a.button.alt,
+	.woocommerce a.button.alt:hover,
+	.widget_pages ul li:before, 
+	.widget_meta ul li:before, 
+	.widget_archive ul li:before, 
+	.widget_categories ul li:before, 
+	.widget_nav_menu ul li:before,
+	.woocommerce button.button.alt,
+	.woocommerce button.button.alt:hover,
+	.woocommerce input.button.alt,
+	.woocommerce input.button.alt:hover
+
+	{
+	background-color: #24a3d8; 
+	}
+
+	@media only screen and (max-width: 768px) {
+	.project-item a .overlay {
+	background-color: #24a3d8; 
+	}
+	}
+
+	.page-numbers li span.current,
+	ul.tiny-cart li ul.cart_list li.buttons .button.checkout,
+	.page-numbers li a:hover, 
+	.page-numbers li span.current,
+	.page-numbers li span.current:hover,
+	.page-numbers li a:hover,
+	.vc_read_more,
+	body .wpb_teaser_grid .categories_filter li a:hover, 
+	.owl-theme .owl-controls .owl-page.active span, 
+	.owl-theme .owl-controls.clickable .owl-page:hover span,
+	.woocommerce-page .container .cart-collaterals a.button,
+	.container .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+	.order-wrap,
+	.cg-product-cta .button:hover,
+	.slider .cg-product-cta .button:hover,
+	.widget_shopping_cart_content p.buttons a.button.checkout,
+	.woocommerce-message,
+	#respond input#submit,
+	.up-sells-bottom h2 span,
+	.content-area .up-sells-bottom h2 span,
+	.related h2 span,
+	.content-area .related h2 span,
+	.cross-sells h2 span,
+	.woocommerce-page .content-area form .coupon h3 span,
+	body .vc_tta.vc_general.vc_tta-color-white .vc_tta-tab.vc_active span,
+	body.error404 .content-area a.btn,
+	body .flexslider,
+	.cg-primary-menu .menu > li:hover
+
+	{
+	border-color: #24a3d8;
+	}
+
+	.post-tags a:hover:before,
+	.cat-links a:hover:before,
+	.tags-links a:hover:before {
+	border-right-color: #24a3d8;
+	}
+
+	.container .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a:before {
+	border-top-color: #24a3d8;
+	}
+
+	.entry-content a,
+	.cg-blog-article footer a:hover {
+	border-bottom-color: #24a3d8;
+	}
+
+	a,
+	body.bbpress button,
+	.cg-features i,
+	.cg-features h2,
+	.toggle-active i.fa,
+	.cg-menu-beside .cg-cart-count,
+	.widget_layered_nav ul.yith-wcan-list li a:before,
+	.widget_layered_nav ul.yith-wcan-list li.chosen a:before,
+	.widget_layered_nav ul.yith-wcan-list li.chosen a,
+	.cg-menu-below .cg-extras .cg-header-details i,
+	.mobile-header-details .cg-header-details i,
+	blockquote:before,
+	blockquote:after,
+	article.format-link .entry-content p:before,
+	.container .ui-state-default a, 
+	.container .ui-state-default a:link, 
+	.container .ui-state-default a:visited,
+	.logo a,
+	.container .cg-product-cta a.button.added:after,
+	.woocommerce-breadcrumb a,
+	#cg-articles h3 a,
+	.cg-recent-folio-title a, 
+	.woocommerce-message,
+	.content-area h2.cg-recent-folio-title a,
+	.cg-product-info .yith-wcwl-add-to-wishlist a:hover:before,
+	.cg-product-wrap .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse.show a:before,
+	.widget_rss ul li a,
+	.lightwrapper .widget_rss ul li a,
+	.woocommerce-tabs .tabs li a:hover,
+	.content-area .checkout-confirmed-payment p,
+	.icon.cg-icon-bag-shopping-2, 
+	.icon.cg-icon-basket-1, 
+	.icon.cg-icon-shopping-1,
+	#top-menu-wrap li a:hover,
+	.cg-product-info .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a:before, 
+	.cg-product-info .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a:hover:before,
+	.widget ul.product-categories ul.children li a:before,
+	.widget_pages ul ul.children li a:before,
+	.container .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+	.container .wpb_tabs .wpb_tabs_nav li a:hover,
+	#filters li a.selected,
+	#filters li a.selected:hover,
+	.widget a:hover,
+	.cg-product-cta a.button.added,
+	.woocommerce-tabs .tabs li.active a,
+	.summary .price ins .amount,
+	.woocommerce div.product p.price,
+	body.woocommerce-page ul.products li.product .price,
+	.blog-pagination ul li.active a,
+	ul.tiny-cart li a.cart_dropdown_link:before,
+	button.mfp-close:hover,
+	body .vc_custom_heading a:hover,
+	body.error404 .content-area a.btn,
+	.no-grid .vc_custom_heading a:hover,
+	.down_arrow,
+	.breadcrumbs-wrapper p.sub-title,
+	.cg-price-action .cg-product-cta a,
+            .prev-product:hover:before, 
+	.next-product:hover:before,
+	.widget.woocommerce .amount,
+	.woocommerce nav.woocommerce-pagination ul li span.current,
+	.cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a:hover,
+	.container .wpb_tour.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav li.ui-state-active a,
+	.cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li .cg-submenu ul li.title a:hover,
+	.cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li .cg-submenu ul li.title a:hover 
+
+	{
+	color: #24a3d8;
+	}
+
+	.owl-theme .owl-controls .owl-buttons div:hover,
+	article.format-link .entry-content p:hover,
+	.container .ui-state-hover,
+	#filters button.is-checked,
+	#filters button.is-checked:hover,
+	.map_inner,
+	h4.widget-title span,
+	.wpb_teaser_grid .categories_filter li.active a,
+	.cg-header-fixed .menu > li .cg-submenu-ddown, 
+	body .wpb_teaser_grid .categories_filter li.active a,
+	.cg-wp-menu-wrapper .menu li a:hover,
+	.cg-primary-menu-beside .cg-wp-menu-wrapper .menu li:hover a,
+	.cg-header-fixed .cg-wp-menu-wrapper .menu li:hover a,
+	.container .cg-product-cta a.button.added,
+	h4.widget-title span,
+	#secondary h4.widget-title span,
+	.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active
+
+	{
+	border-color: #24a3d8;
+	}
+
+
+	ul.tabNavigation li a.active,
+	.wpb_teaser_grid .categories_filter li.active a,
+	ul.tiny-cart li ul.cart_list li.buttons .button.checkout
+
+	{
+	background: #24a3d8;
+
+	}
+
+	.tipr_point_top:after,
+	.woocommerce .woocommerce-tabs ul.tabs li.active a:after {
+	border-top-color: #24a3d8;
+	}
+
+	.tipr_point_bottom:after,
+	.content-area a:hover
+	{
+	border-bottom-color: #24a3d8;
+	}
+
+	
+	
+	a,
+	.logo a,
+	#secondary .widget_rss ul li a,
+	.navbar ul li.current-menu-item a, 
+	.navbar ul li.current-menu-ancestor a, 
+	body.woocommerce ul.products li.product a:hover,
+	#cg-articles h3 a,
+	.current-menu-item,
+	.content-area table.my_account_orders td.order-actions a,
+	body.blog.has-featured-image .header-wrapper p.sub-title a,
+	.content-area .cart-collaterals table a.shipping-calculator-button,
+	.content-area h6 a.email,
+	#secondary .widget_recent_entries ul li a,
+	.breadcrumbs-wrapper p.sub-title
+
+	{
+	color: #24a3d8; 
+	}
+
+
+	
+	.page-container a:hover,
+	.page-container a:focus,
+	body.single footer.entry-meta a:hover,
+	.content-area table a:hover,
+	.cg-blog-date .comments-link a:hover,
+	.widget ul.product-categories li a:hover,
+	.widget ul.product-categories ul.children li a:hover,
+	#top .dropdown-menu li a:hover, 
+	ul.navbar-nav li .nav-dropdown li a:hover,
+	.navbar ul li.current-menu-item a:hover, 
+	.navbar ul li.current-menu-ancestor a:hover,
+	.content-area a.post-edit-link:hover:before,
+	.cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li a:hover, 
+	body .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover, 
+	.cg-submenu-ddown .container > ul > li > a:hover,
+	.cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li a:hover,
+	.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover,
+	.blog-pagination ul li a:hover,
+	.content-area .medium-blog footer.entry-meta a:hover,
+	.widget.popular-posts ul li a.wpp-post-title:hover,
+	body .content-area article h2 a:hover,
+	body .vc_custom_heading a:hover,
+	.widget_tag_cloud a:hover,
+	body.
+	color: #000000; 
+	}
+
+	.dropdown-menu > li > a:hover {
+	background-color: #000000; 
+	}
+
+	
+	
+	@media only screen and (min-width: 1100px) { 
+
+	.rightnav,
+	.rightnav h4.widget-title {
+	color: #444444;
+	}
+
+	}
+	
+	
+	.cg-primary-menu .menu > li > a {
+	color: #ffffff;
+	}
+
+	
+	/* Sticky Header Text */
+
+	
+	.cg-header-fixed-wrapper.cg-is-fixed {
+	background-color: #ffffff;
+	}
+
+	
+	
+	.cg-transparent-header.scroller .cg-primary-menu .menu > li > a,
+	.cg-transparent-header.scroller .rightnav .cart_subtotal,
+	.cg-transparent-header.scroller .search-button,
+	body.transparent-light .cg-transparent-header.scroller .cg-primary-menu .menu > li > a, 
+	body.transparent-light .cg-transparent-header.scroller .rightnav .cart_subtotal, 
+	body.transparent-light .cg-transparent-header.scroller .search-button,
+	body.transparent-dark .cg-transparent-header.scroller .cg-primary-menu .menu > li > a,
+	body.transparent-dark .cg-transparent-header.scroller .rightnav .cart_subtotal,
+	body.transparent-dark .cg-transparent-header.scroller .search-button,
+	.cg-header-fixed-wrapper .rightnav .cart_subtotal,
+	.cg-header-fixed .cg-primary-menu .menu > li > a {
+	color: #222222;
+	}
+
+
+	.cg-transparent-header.scroller .burger span,
+	body.transparent-light .cg-transparent-header.scroller .burger span,
+	body.transparent-dark .cg-transparent-header.scroller .burger span {
+	background: #222222;
+	}
+
+	.cg-transparent-header.scroller .leftnav a,
+	.cg-header-fixed .leftnav a {
+	color: #222222;
+	border-color: #222222;
+	}
+
+
+
+	
+	
+	@media only screen and (max-width: 1100px) { 
+	body .cg-header-wrap .cg-transparent-header,
+	body.transparent-light .cg-header-wrap .cg-transparent-header,
+	body.transparent-dark .cg-header-wrap .cg-transparent-header,
+	body .cg-menu-below,
+	.scroller, 
+	body.transparent-light .cg-header-wrap .scroller, 
+	body.transparent-dark .cg-header-wrap .scroller {
+	background: #ffffff; 
+	}
+	}
+
+	
+	/* Standard Logo */
+	
+	@media only screen and (min-width: 1100px) {
+	.cg-transparent-header,
+	.cg-menu-below {
+	height: 48px;
+	}
+
+	.leftnav .cg-main-logo img {
+	height: 48px;
+	width: auto;
+	}
+
+	.cg-extras {
+	line-height: 48px;
+	}
+
+	.cg-menu-below,
+	.cg-menu-below .ul.tiny-cart,
+	.cg-logo-center .search-button,
+	.cg-menu-below .leftnav a { 
+	line-height: 118px;
+	}
+
+	.cg-menu-below .ul.tiny-cart,
+	.cg-menu-below .cg-extras .site-search {
+	height: 118px;
+	line-height: 118px;
+	}
+
+	.rightnav .extra {
+	height: 118px;
+	}
+
+
+	}
+
+	
+	/* Sticky Logo */
+	
+
+	/* Standard Top Padding */
+	
+	/* Sticky Top Padding */
+	
+	/* Standard Bottom Padding */
+	
+	@media only screen and (min-width: 1100px) {
+	.cg-transparent-header,
+	.cg-menu-below {
+	height: 118px;
+	}
+
+	.cg-transparent-header .cg-primary-menu .menu > li > a {
+	padding-bottom: 70px;
+	}
+	}
+
+	
+	/* Sticky Bottom Padding */
+	
+	/* Dynamic Logo Width */
+	
+	@media only screen and (min-width: 1100px) {
+	.cg-menu-below .leftnav.dynamic-logo-width {
+	width: 20%;
+	}
+
+	.rightnav {
+	width: 80%;
+	}
+
+	}
+
+	
+
+	.first-footer
+
+	{
+	background-color: #45474e; 
+	}
+
+	
+	.second-footer
+
+	{
+	background-color: #45474e; 
+	}
+
+	
+	.footer 
+
+	{
+	background-color: #45474e; 
+	}
+
+	
+	.first-footer, .first-footer h4.widget-title, .first-footer a:hover, .first-footer li  
+
+	{
+	color: #ffffff; 
+	}
+
+	
+	.first-footer a  
+
+	{
+	color: #d0d0d2; 
+	}
+
+	
+	
+	.second-footer, .second-footer h4.widget-title, .second-footer a, .second-footer a:hover, .second-footer li  
+
+	{
+	color: #ffffff; 
+	}
+
+	
+	.footer,
+	.footer p,
+	.footer p a,
+	.bottom-footer-right a
+
+	{
+	color: #abacaf; 
+	}
+
+	
+
+	
+	</style>
+
+	<style type="text/css" title="dynamic-css" class="options-output">.cg-logo-center, .cg-logo-left{background-color:#ffffff;}.cg-primary-menu-center, .cg-primary-menu-left{background-color:#323946;}.scroller, body.transparent-light .scroller, body.transparent-dark .scroller{background-color:#ffffff;}.cg-primary-menu .menu > li > a,ul.tiny-cart > li > a,.rightnav .cart_subtotal{font-family:"Source Sans Pro";font-weight:400;font-style:normal;font-size:17px;}.cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a, .menu-full-width .cg-menu-title, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul .menu-item-has-children > a, .cg-primary-menu .menu > li .cg-submenu-ddown ul li.image-item-title a, .cg-primary-menu .menu > li .cg-submenu-ddown ul li.image-item-title ul a,
+.cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul .menu-item-has-children > a, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li .cg-submenu ul li.title a, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li .cg-submenu ul li.title a, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li > a:hover{font-family:"Source Sans Pro";font-weight:400;font-style:normal;color:#cccccc;font-size:15px;}.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a, .cg-submenu-ddown .container > ul > li > a, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li .cg-submenu ul li ul li a, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown .container > ul > li .cg-submenu ul li ul li a, body .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover{font-family:"Source Sans Pro";text-transform:none;font-weight:300;font-style:normal;color:#ffffff;font-size:15px;}.cg-header-fixed .menu > li .cg-submenu-ddown, ul.tiny-cart li ul.cart_list, .cg-primary-menu .menu > li .cg-submenu-ddown, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu li, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu li,.cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown,.cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu,
+.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu,
+.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a{background:#24a3d8;}body,select,input,textarea,button,h1,h2,h3,h4,h5,h6{font-family:"Source Sans Pro";line-height:27px;font-weight:300;font-style:normal;color:#333333;font-size:17px;}.content-area .entry-content blockquote,.content-area .entry-content blockquote p,.breadcrumbs-wrapper p,.cg-blog-article footer,body.single footer.entry-meta,.blog-meta,body.woocommerce nav.woocommerce-pagination ul li,.content-area .blog-pagination ul li,.woocommerce .quantity .qty,.woocommerce table.shop_table .quantity input.qty{font-family:Lora;font-weight:400;font-style:normal;}.content-area .entry-content p,.product p,.content-area .vc_toggle_title h4,.content-area ul,.content-area ol,.vc_figure-caption,.authordescription p,body.page-template-template-home-default .wpb_text_column p{font-family:"Source Sans Pro";line-height:27px;font-weight:300;font-style:normal;color:#343e47;font-size:17px;}h1,.content-area h1,h1.cg-page-title,.summary h1,.content-area .summary h1{font-family:Lora;line-height:54px;font-weight:400;font-style:normal;color:#111;font-size:40px;}h2,.content-area h2{font-family:Lora;line-height:46px;font-weight:400;font-style:normal;color:#222;font-size:32px;}h3,.content-area h3{font-family:Lora;line-height:36px;font-weight:400;font-style:normal;color:#222;font-size:28px;}h4,.content-area h4,body .vc_separator h4{font-family:Lora;line-height:32px;font-weight:400;font-style:normal;color:#222;font-size:22px;}h5,.content-area h5{font-family:Lora;line-height:26px;font-weight:400;font-style:normal;color:#222;font-size:17px;}h6,.content-area h6{font-family:"Source Sans Pro";line-height:23px;font-weight:300;font-style:normal;color:#343e47;font-size:15px;}h4.widget-title,.subfooter h4{font-family:"Source Sans Pro";line-height:26px;font-weight:400;font-style:normal;color:#222;font-size:18px;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1445004334863{margin-bottom: 50px !important;}.vc_custom_1444954442544{margin-bottom: 25px !important;}.vc_custom_1444833000148{margin-bottom: 15px !important;}.vc_custom_1444909414252{margin-bottom: 75px !important;}.vc_custom_1444841192812{margin-bottom: 20px !important;}.vc_custom_1444839048876{margin-bottom: 55px !important;}.vc_custom_1444955115668{margin-bottom: 45px !important;padding-right: 10% !important;padding-left: 10% !important;}.vc_custom_1444955899141{margin-bottom: 0px !important;padding-top: 75px !important;padding-bottom: 50px !important;background-color: #3d3f43 !important;}.vc_custom_1444931459467{padding-top: 50px !important;padding-bottom: 80px !important;background-image: url(images/broker_faded_bg_a.jpg?id=70484) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444925762706{margin-right: 0px !important;margin-bottom: 65px !important;margin-left: 0px !important;}.vc_custom_1445342217792{margin-right: 15px !important;margin-bottom: 20px !important;margin-left: 15px !important;}.vc_custom_1444954308084{margin-bottom: 35px !important;}.vc_custom_1444954317564{margin-bottom: 35px !important;}.vc_custom_1444954327828{margin-bottom: 35px !important;}.vc_custom_1444954428028{margin-bottom: 35px !important;}.vc_custom_1457607642468{border-bottom-width: 0px !important;}.vc_custom_1444778421693{margin-top: -15px !important;}.vc_custom_1444659469774{border-bottom-width: 0px !important;}.vc_custom_1444778412470{margin-top: -15px !important;}.vc_custom_1444659525631{border-bottom-width: 0px !important;}.vc_custom_1444778854833{margin-top: -15px !important;}.vc_custom_1449502625921{padding-top: 1px !important;padding-right: 18px !important;padding-bottom: 35px !important;padding-left: 18px !important;background-color: #f5f5f5 !important;border-radius: 3px !important;}.vc_custom_1444929977523{padding-right: 15px !important;}.vc_custom_1444831100545{margin-bottom: 20px !important;}.vc_custom_1444832529176{margin-top: 20px !important;}.vc_custom_1444909442374{padding-top: 20px !important;}.vc_custom_1444954705846{margin-bottom: 35px !important;}.vc_custom_1444954714787{margin-bottom: 35px !important;}.vc_custom_1444954832988{margin-bottom: 35px !important;}.vc_custom_1444831997516{margin-top: 20px !important;margin-bottom: 20px !important;}.vc_custom_1444840916186{padding-top: 15px !important;}.vc_custom_1444831997516{margin-top: 20px !important;margin-bottom: 20px !important;}.vc_custom_1444840925775{padding-top: 15px !important;}.vc_custom_1444831997516{margin-top: 20px !important;margin-bottom: 20px !important;}.vc_custom_1444840936524{padding-top: 15px !important;}.vc_custom_1444841143839{padding-top: 10px !important;}.vc_custom_1444954950021{margin-bottom: 35px !important;}.vc_custom_1444954957876{margin-bottom: 35px !important;}.vc_custom_1444954966247{margin-bottom: 35px !important;}.vc_custom_1445692267865{padding-top: 25px !important;}.vc_custom_1444905560632{padding-top: 10px !important;}.vc_custom_1445692286588{padding-top: 25px !important;}.vc_custom_1446066438440{padding-top: 10px !important;}.vc_custom_1445692352602{padding-top: 25px !important;}.vc_custom_1444909338135{padding-top: 10px !important;}.vc_custom_1444836754783{padding-top: 15px !important;}.vc_custom_1444955077811{margin-bottom: 35px !important;}.vc_custom_1444955084492{margin-bottom: 35px !important;}.vc_custom_1444955091390{margin-bottom: 35px !important;}.vc_custom_1444955100120{margin-bottom: 35px !important;}.vc_custom_1444903945400{margin-bottom: 20px !important;}.vc_custom_1444903958536{margin-bottom: 20px !important;}.vc_custom_1444904027741{margin-bottom: 20px !important;}.vc_custom_1444904114145{margin-bottom: 20px !important;}.vc_custom_1445612266879{padding-top: 25px !important;}.vc_custom_1444955234590{margin-bottom: 35px !important;padding-top: 25px !important;padding-right: 45px !important;padding-left: 45px !important;}.vc_custom_1444925441546{border-top-width: 1px !important;border-right-width: 1px !important;border-left-width: 1px !important;padding-top: 45px !important;padding-right: 45px !important;padding-bottom: 85px !important;padding-left: 45px !important;background-color: #f5f5f5 !important;border-left-color: #ffffff !important;border-left-style: solid !important;border-right-color: #ffffff !important;border-right-style: solid !important;border-top-color: #ffffff !important;border-top-style: solid !important;}.vc_custom_1444924071016{margin-top: 15px !important;}.vc_custom_1444934337217{padding-top: 35px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    </head>
+    <body id="skrollr-body" class="home page page-id-5 page-template page-template-page-full-width page-template-page-full-width-php cg-header-style-default cg-sticky-enabled  has-featured-image wpb-js-composer js-comp-ver-4.8.1 vc_responsive cgtoolkit">
+
+	    	    <div class="cg-loader">
+	<div class="cg-folding-cube">
+	  <div class="cg-cube1 cg-cube"></div>
+	  <div class="cg-cube2 cg-cube"></div>
+	  <div class="cg-cube4 cg-cube"></div>
+	  <div class="cg-cube3 cg-cube"></div>
+	</div>
+	</div>
+
+	<script>
+	( function ( $ ) { "use strict";
+	$(window).load(function() {
+	$(".cg-loader").fadeOut("slow");;
+	});
+	}( jQuery ) );
+	</script>
+	
+	<div id="main-wrapper" class="content-wrap">
+
+	
+	<div class="mobile-header-details">
+	<div id="text-4" class="widget-1 widget-first widget-odd cg-header-details widget_text"><h4 class="widget-title"><span>07:30 &#8211; 19:00</span></h4>	<div class="textwidget">Monday to Friday
+<i class="ion-ios-time-outline"></i></div>
+	</div><div id="text-5" class="widget-2 widget-even cg-header-details widget_text"><h4 class="widget-title"><span>Goldsmith Hall,</span></h4>	<div class="textwidget">New York, NY 90210
+<i class="ion-ios-location-outline"></i></div>
+	</div><div id="text-6" class="widget-3 widget-last widget-odd cg-header-details widget_text"><h4 class="widget-title"><span>1800 234 567</span></h4>	<div class="textwidget"><a href="#">info@example.com</a>
+<i class="ion-ios-telephone-outline"></i></div>
+	</div>	</div>
+
+<!-- Load Top Bar -->
+	<div class="cg-announcements">
+	<div class="container">
+	<div class="row">
+	<div class="col-sm-8 col-md-9 col-lg-9 top-bar-left">
+	<div id="text-10" class="widget-1 widget-first widget-last widget-odd widget_text">	<div class="textwidget">Welcome to Broker Financial Services, we have over 20 years of expertise</div>
+	</div>	</div>
+	<div class="col-sm-4 col-md-3 col-lg-3 top-bar-right">
+	<div id="text-13" class="widget-1 widget-first widget-last widget-odd widget_text">	<div class="textwidget">7th April 2016</div>
+	</div>	</div>	
+	</div>
+	</div>
+	</div>
+	
+<!--/ End Top Bar -->
+
+<!-- Only load if Mobile Search Widget Area is Enabled -->
+
+	<script>
+
+	    ( function ( $ ) {
+	        "use strict";
+
+	        $( document ).ready( function () {
+	            $( ".activate-mobile-search" ).click( function () {
+	                $( ".mobile-search-reveal" ).slideToggle( "fast" );
+	            } );
+	        } );
+
+	    }( jQuery ) );
+	</script>
+
+	<div class="mobile-search-reveal">
+	<div class="container">
+	<div class="row">
+	<div class="col-lg-12 col-md-12">
+	<div class="activate-mobile-search close"><i class="ion-close-round"></i></div>
+	<div id="search-2" class="widget-1 widget-first widget-last widget-odd widget_search"><form role="search" method="get" class="search-form" action="http://broker.commercegurus.com/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+    </label>
+    <input type="submit" class="search-submit" value="Search">
+</form>
+</div>	</div>
+	</div>
+	</div>
+	</div>
+<!--/ End Mobile Search -->
+
+<div id="wrapper">
+	<!-- Left Logo with menu below -->
+	<div class="cg-menu-below cg-logo-left cg-menu-left">
+	<div class="container">
+	<div class="cg-logo-cart-wrap">
+	<div class="cg-logo-inner-cart-wrap">
+	<div class="row">
+	<div class="container width-auto">
+	<div class="cg-wp-menu-wrapper">
+	<div id="load-mobile-menu">
+	</div>
+
+	<div class="activate-mobile-search"><i class="ion-android-search mobile-search-icon"></i></div>
+	
+	<div class="rightnav">
+	<div class="cg-extras">
+	
+	<div class="extra">	<div class="site-search">
+	<div class="widget widget_search"><form role="search" method="get" class="search-form" action="http://broker.commercegurus.com/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+    </label>
+    <input type="submit" class="search-submit" value="Search">
+</form>
+</div>	</div>
+	</div>
+	 
+	<div class="extra"><div id="text-4" class="widget-4 widget-even cg-header-details widget_text"><h4 class="widget-title"><span>07:30 &#8211; 19:00</span></h4>	<div class="textwidget">Monday to Friday
+<i class="ion-ios-time-outline"></i></div>
+	</div><div id="text-5" class="widget-5 widget-odd cg-header-details widget_text"><h4 class="widget-title"><span>Goldsmith Hall,</span></h4>	<div class="textwidget">New York, NY 90210
+<i class="ion-ios-location-outline"></i></div>
+	</div><div id="text-6" class="widget-6 widget-even cg-header-details widget_text"><h4 class="widget-title"><span>1800 234 567</span></h4>	<div class="textwidget"><a href="#">info@example.com</a>
+<i class="ion-ios-telephone-outline"></i></div>
+	</div></div>
+
+
+	</div><!--/cg-extras --> 
+	</div><!--/rightnav -->
+
+	
+	<div class="leftnav logo image dynamic-logo-width">
+	<a class="cg-main-logo" href="http://broker.commercegurus.com/" rel="home">
+	<span class="helper"></span><img src="images/broker-logo.png" alt="Broker Theme Demo"/></a>
+	</div>
+
+	
+	</div>
+	</div><!--/container -->
+	</div><!--/row -->
+	</div><!--/cg-logo-inner-cart-wrap -->
+	</div><!--/cg-logo-cart-wrap -->
+	</div><!--/container -->
+	</div><!--/cg-menu-below -->
+	<div class="cg-primary-menu cg-wp-menu-wrapper cg-primary-menu-below-wrapper cg-primary-menu-left">
+	<div class="container">
+	<div class="row margin-auto">
+	
+	<div class="cg-main-menu"><ul id="menu-main-menu" class="menu"><li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-80"><a href="http://broker.commercegurus.com/">Home</a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-75"><a href="http://broker.commercegurus.com/services/">Services</a>
+<div class=cg-submenu-ddown><div class='container'>
+<ul class="cg-menu-ul">
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://broker.commercegurus.com/services/financial-planning/">Financial Planning</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://broker.commercegurus.com/services/bonds/">Bonds</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://broker.commercegurus.com/services/commodities/">Commodities</a></li>
+	<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://broker.commercegurus.com/services/investment-trusts/">Investment Trusts</a></li>
+	<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://broker.commercegurus.com/services/mutual-funds/">Mutual Funds</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://broker.commercegurus.com/services/retirement/">Retirement</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-104"><a href="http://broker.commercegurus.com/services/stocks/">Stocks</a>
+	<div class=cg-submenu><div class=''>
+<ul>	<li id="menu-item-70560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70560"><a href="http://broker.commercegurus.com/services/stocks/types-of-stocks/">Types of Stocks</a></li>
+	<li id="menu-item-70559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70559"><a href="http://broker.commercegurus.com/services/stocks/how-stocks-trade/">How Stocks Trade</a></li>
+	</ul></div></div>
+</li>
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://broker.commercegurus.com/services/trades/">Trades</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://broker.commercegurus.com/testimonials/">Testimonials</a></li>
+<li id="menu-item-70773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70773"><a href="http://broker.commercegurus.com/projects/">Projects</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-79"><a href="http://broker.commercegurus.com/news/"><strong>NEW</strong>  News</a>
+<div class=cg-submenu-ddown><div class='container'>
+<ul class="cg-menu-ul">
+	<li id="menu-item-70818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70818"><a href="http://broker.commercegurus.com/news/">Default</a></li>
+	<li id="menu-item-70817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70817"><a href="http://broker.commercegurus.com/news/?newslayout=grid-news&amp;blogsidebar=none">Grid Layout</a></li>
+	<li id="menu-item-70816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70816"><a href="http://broker.commercegurus.com/news/?newslayout=grid-news-two">Grid with Sidebar</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://broker.commercegurus.com/about-us/">About Us</a></li>
+<li id="menu-item-70645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70645"><a href="http://broker.commercegurus.com/shop/">Shop</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://broker.commercegurus.com/contact-us/">Contact Us</a></li>
+</ul></div>	
+	</div>
+	</div>
+	</div>
+
+
+
+
+	<!--FIXED -->
+	<div class="cg-header-fixed-wrapper ">
+	<div class="cg-header-fixed">
+	<div class="container">
+	<div class="cg-wp-menu-wrapper">
+	<div class="cg-primary-menu">
+	<div class="row">
+	<div class="container width-auto">
+	<div class="cg-wp-menu-wrapper">
+	<div class="rightnav">
+	
+	
+	<div class="cta-button">
+	<a href="http://broker.commercegurus.com/contact-us/">Get in Touch</a>
+	</div>
+
+	
+	</div><!--/rightnav -->
+
+	
+	<div class="leftnav logo image">
+	<a class="cg-sticky-logo" href="http://broker.commercegurus.com/" rel="home">
+	<span class="helper"></span><img src="images/broker-logo.png" alt="Broker Theme Demo"/></a>
+	</div>
+	<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-80"><a href="http://broker.commercegurus.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-75"><a href="http://broker.commercegurus.com/services/">Services</a>
+<div class=cg-submenu-ddown><div class='container'>
+<ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://broker.commercegurus.com/services/financial-planning/">Financial Planning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://broker.commercegurus.com/services/bonds/">Bonds</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://broker.commercegurus.com/services/commodities/">Commodities</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://broker.commercegurus.com/services/investment-trusts/">Investment Trusts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://broker.commercegurus.com/services/mutual-funds/">Mutual Funds</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://broker.commercegurus.com/services/retirement/">Retirement</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-104"><a href="http://broker.commercegurus.com/services/stocks/">Stocks</a>
+	<div class=cg-submenu><div class=''>
+<ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70560"><a href="http://broker.commercegurus.com/services/stocks/types-of-stocks/">Types of Stocks</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70559"><a href="http://broker.commercegurus.com/services/stocks/how-stocks-trade/">How Stocks Trade</a></li>
+	</ul></div></div>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://broker.commercegurus.com/services/trades/">Trades</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://broker.commercegurus.com/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70773"><a href="http://broker.commercegurus.com/projects/">Projects</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-79"><a href="http://broker.commercegurus.com/news/"><strong>NEW</strong>  News</a>
+<div class=cg-submenu-ddown><div class='container'>
+<ul class="cg-menu-ul">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70818"><a href="http://broker.commercegurus.com/news/">Default</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70817"><a href="http://broker.commercegurus.com/news/?newslayout=grid-news&amp;blogsidebar=none">Grid Layout</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70816"><a href="http://broker.commercegurus.com/news/?newslayout=grid-news-two">Grid with Sidebar</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://broker.commercegurus.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70645"><a href="http://broker.commercegurus.com/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://broker.commercegurus.com/contact-us/">Contact Us</a></li>
+</ul></div>	</div><!--/cg-wp-menu-wrapper -->
+	</div><!--/container -->
+	</div><!--/row -->
+	</div><!--/cg-primary-menu -->
+	</div><!--/cg-wp-menu-wrapper -->
+	</div><!--/container -->
+	</div><!--/cg-header-fixed -->
+	</div><!--/cg-header-fixed-wrapper. -->
+	
+	<div class="page-container">
+	
+
+	<div id="mobile-menu">
+	<a id="skip" href="#cg-page-wrap" class="hidden" title="Skip to content">Skip to content</a> 
+	<ul id="mobile-cg-primary-menu" class="mobile-menu-wrap"><li  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item"><a href="http://broker.commercegurus.com/"><span>Home</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item"><a href="http://broker.commercegurus.com/services/"><span>Services</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/financial-planning/"><span>Financial Planning</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/bonds/"><span>Bonds</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/commodities/"><span>Commodities</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/investment-trusts/"><span>Investment Trusts</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/mutual-funds/"><span>Mutual Funds</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/retirement/"><span>Retirement</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item"><a href="http://broker.commercegurus.com/services/stocks/"><span>Stocks</span></a>
+	<ul class="sub-menu">
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/stocks/types-of-stocks/"><span>Types of Stocks</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/stocks/how-stocks-trade/"><span>How Stocks Trade</span></a></li>
+	</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/services/trades/"><span>Trades</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/testimonials/"><span>Testimonials</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/projects/"><span>Projects</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item"><a href="http://broker.commercegurus.com/news/"><span><strong>NEW</strong>  News</span></a>
+<ul class="sub-menu">
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://broker.commercegurus.com/news/"><span>Default</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://broker.commercegurus.com/news/?newslayout=grid-news&amp;blogsidebar=none"><span>Grid Layout</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://broker.commercegurus.com/news/?newslayout=grid-news-two"><span>Grid with Sidebar</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/about-us/"><span>About Us</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/shop/"><span>Shop</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://broker.commercegurus.com/contact-us/"><span>Contact Us</span></a></li>
+</ul>	</div><!--/mobile-menu -->
+	
+	<div id="cg-page-wrap" class="hfeed site">
+	
+<div class="content-area">
+	<article id="post-5" class="post-5 page type-page status-publish has-post-thumbnail hentry">
+	
+	
+	
+	    <div class="entry-content">
+	<div class="cg-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1445004334863"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="wpb_layerslider_element wpb_content_element"><script data-cfasync="false" type="text/javascript">var lsjQuery = jQuery;</script><script data-cfasync="false" type="text/javascript">
+lsjQuery(document).ready(function() {
+if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_1_1460071781_1','jquery'); }
+else {
+lsjQuery("#layerslider_1_1460071781_1").layerSlider({responsiveUnder: 1120, layersContainer: 1090, startInViewport: false, twoWaySlideshow: true, skin: 'noskin', hoverPrevNext: false, showCircleTimer: false, skinsPath: 'http://broker.commercegurus.com/wp-content/plugins/LayerSlider/static/skins/'})
+}
+});
+</script><div id="layerslider_1_1460071781_1" class="ls-wp-container" style="width:100%;height:420px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="transition2d:11,12;"><img src="images/broker_slide_group_b.jpg" class="ls-bg" alt="broker_slide_group_b" /><p class="ls-l" style="top:80px;left:50px;
+;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Lora;font-size:46px;line-height:;color:#ffffff;background:;border-radius:;white-space: nowrap;" data-ls="delayin:400;">Expert Financial Advice </p><p class="ls-l" style="top:155px;left:51px;line-height: 1.5em;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:28px;line-height:;color:#ffffff;background:;border-radius:;white-space: nowrap;" data-ls="delayin:600;">With over 20 years of experience we’ll ensure<br>you always get the best guidance.</p><a href="http://broker.commercegurus.com/services/" target="_self" class="ls-l" style="top:270px;left:51px;" data-ls="delayin:800;"><div style="padding: 12px 28px;
+display: block;
+margin: 0px auto;
+font-weight: 400;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:20px;line-height:;color:#ffffff;background:#24a3d8;border-radius:2px;white-space: nowrap;">Our Services</div></a><a href="http://broker.commercegurus.com/contact-us/" target="_self" class="ls-l" style="top:270px;left:220px;" data-ls="delayin:1000;"><div style="padding: 12px 28px;
+display: block;
+margin: 0px auto;
+font-weight: 400;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:20px;line-height:;color:#24a3d8;background:#ffffff;border-radius:2px;white-space: nowrap;">Contact Us Today</div></a></div><div class="ls-slide" data-ls="transition2d:11,12;"><img src="images/broker_slide_man_a.jpg" class="ls-bg" alt="broker_slide_man_a" /><p class="ls-l" style="top:80px;left:50px;
+;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Lora;font-size:46px;line-height:;color:#ffffff;background:;border-radius:;white-space: nowrap;" data-ls="delayin:400;">Investment Guidance</p><p class="ls-l" style="top:155px;left:51px;line-height: 1.5em;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:28px;line-height:;color:#ffffff;background:;border-radius:;white-space: nowrap;" data-ls="delayin:600;">We bring decades of proven industry expertise<br>in driving our investment approach.</p><a href="http://broker.commercegurus.com/services/" target="_self" class="ls-l" style="top:270px;left:51px;" data-ls="delayin:800;"><div style="padding: 12px 28px;
+display: block;
+margin: 0px auto;
+font-weight: 400;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:20px;line-height:;color:#ffffff;background:#24a3d8;border-radius:2px;white-space: nowrap;">Our Services</div></a><a href="http://broker.commercegurus.com/contact-us" target="_self" class="ls-l" style="top:270px;left:220px;" data-ls="delayin:1000;"><div style="padding: 12px 28px;
+display: block;
+margin: 0px auto;
+font-weight: 400;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:20px;line-height:;color:#24a3d8;background:#ffffff;border-radius:2px;white-space: nowrap;">Contact Us Today</div></a></div><div class="ls-slide" data-ls="transition2d:11,12;"><img src="images/broker_slide_table_a.jpg" class="ls-bg" alt="broker_slide_table_a" /><p class="ls-l" style="top:80px;left:50px;text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Lora;font-size:46px;line-height:;color:#ffffff;background:;border-radius:;white-space: nowrap;" data-ls="delayin:400;">Friendly Assistance</p><p class="ls-l" style="top:155px;left:51px;line-height: 1.5em;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:28px;line-height:;color:#ffffff;background:;border-radius:;white-space: nowrap;" data-ls="delayin:600;">We’re famous for our friendly, personal help<br>with every area of your financial affairs.</p><a href="http://broker.commercegurus.com/services/" target="_self" class="ls-l" style="top:270px;left:51px;" data-ls="delayin:800;"><div style="padding: 12px 28px;
+display: block;
+margin: 0px auto;
+font-weight: 400;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:20px;line-height:;color:#ffffff;background:#24a3d8;border-radius:2px;white-space: nowrap;">Our Services</div></a><a href="http://broker.commercegurus.com/contact-us/" target="_self" class="ls-l" style="top:270px;left:220px;" data-ls="delayin:1000;"><div style="padding: 12px 28px;
+display: block;
+margin: 0px auto;
+font-weight: 400;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:Source Sans Pro;font-size:20px;line-height:;color:#24a3d8;background:#ffffff;border-radius:2px;white-space: nowrap;">Contact Us Today</div></a></div></div></div></div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444954442544"><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444954308084"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1457607642468">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<a href="http://broker.commercegurus.com/services/financial-planning/" target="_self" class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/financial-advice-300x214.jpg" class="vc_single_image-img attachment-medium" alt="Financial Goals" srcset="images/financial-advice-300x214.jpg 300w, images/financial-advice.jpg 950w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444778421693">
+	<div class="wpb_wrapper">
+	<h4><a href="http://broker.commercegurus.com/services/financial-planning/">Financial Planning</a></h4>
+<h6>We understand you’re saving for all different life events: retirement, a house or simply to build wealth.</h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444954317564"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1444659469774">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<a href="images/bonds" target="_self" class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/bonds-300x214.jpg" class="vc_single_image-img attachment-medium" alt="Bonds" srcset="images/bonds-300x214.jpg 300w, images/bonds.jpg 950w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444778412470">
+	<div class="wpb_wrapper">
+	<h4><a href="http://broker.commercegurus.com/services/bonds/">Bonds</a></h4>
+<h6>Bonds are a good pick as part of a diverse investment strategy &#8211; they offer solid growth in the long-term.</h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444954327828"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1444659525631">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<a href="http://broker.commercegurus.com/services/retirement/" target="_self" class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/retirement_main-300x214.jpg" class="vc_single_image-img attachment-medium" alt="We offer a wide range of Retirement Products" srcset="images/retirement_main-300x214.jpg 300w, images/retirement_main.jpg 950w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444778854833">
+	<div class="wpb_wrapper">
+	<h4><a href="http://broker.commercegurus.com/services/retirement/">Retirement</a></h4>
+<h6>No matter where you want your retirement savings to take you, it’s quick and easy to set up a pension.</h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444954428028"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1449502625921">
+	<div class="wpb_wrapper">
+	<h4>What we Offer</h4>
+<h6>We provide expert financial advice. With over 20 years of experience we’ll ensure you’re getting the best guidance from the smartest people in the industry. For businesses and individuals, you can rely on Broker to deliver.</h6>
+<h6><a href="http://broker.commercegurus.com/services/">View Services</a> →</h6>
+
+	</div>
+	</div>
+</div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444833000148"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+<div class="separator  normal  " style="background-color:#e2e2e2;height:1px;">
+</div>
+</div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444909414252"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444929977523">
+	<div class="wpb_wrapper">
+	<h3>About Us</h3>
+<p>We have over 20 years of experience providing expert financial advice for both businesses and individuals. Our Investment Committee brings decades of industry expertise in driving our investment approach, portfolio construction, and allocation advice. The committee ensures our investments are best in class, combining substantiated research with the most effective investing tools available today.</p>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444831100545">
+	<div class="wpb_wrapper">
+	<h3>Frequently Asked Questions</h3>
+
+	</div>
+	</div>
+<div id='1444825588835-f3c49cbe-b447' class="vc_toggle vc_toggle_round vc_toggle_color_grey vc_toggle_color_inverted vc_toggle_size_md">
+	<div class="vc_toggle_title"><h4>What kind of financial advice do you give?</h4><i class="vc_toggle_icon"></i></div>
+	<div class="vc_toggle_content"><p><span style="color: #808080;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum nec risus et suscipit. Curabitur metus ipsum, fringilla sit amet nisl vel.</span></p>
+</div>
+</div>
+<div id='1444825640742-c7480fea-a24b' class="vc_toggle vc_toggle_round vc_toggle_color_grey vc_toggle_color_inverted vc_toggle_size_md">
+	<div class="vc_toggle_title"><h4>Do you offer individually tailored investment plans?</h4><i class="vc_toggle_icon"></i></div>
+	<div class="vc_toggle_content"><p><span style="color: #808080;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum nec risus et suscipit. Curabitur metus ipsum, fringilla sit amet nisl vel.</span></p>
+</div>
+</div>
+<div id='1444825639564-c954570e-f88c' class="vc_toggle vc_toggle_round vc_toggle_color_grey vc_toggle_color_inverted vc_toggle_size_md">
+	<div class="vc_toggle_title"><h4>How would I go about planning for my retirement?</h4><i class="vc_toggle_icon"></i></div>
+	<div class="vc_toggle_content"><p><span style="color: #808080;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum nec risus et suscipit. Curabitur metus ipsum, fringilla sit amet nisl vel.</span></p>
+</div>
+</div>
+</div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="wpb_wrapper">
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top vc_custom_1444909442374">
+	<div class="wpb_wrapper">
+	<h3 style="text-align: center;">Helping Small Businesses just like <em>yours</em></h3>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_custom_1444954705846"><div class="wpb_wrapper"><p style="font-size: 120px;color: #000000;line-height: 120px;text-align: center" class="vc_custom_heading lighter-weight">25</p>
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top vc_custom_1444840916186">
+	<div class="wpb_wrapper">
+	<p style="text-align: center;"><span style="color: #999999;">Employees</span></p>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_custom_1444954714787"><div class="wpb_wrapper"><p style="font-size: 120px;color: #000000;line-height: 120px;text-align: center" class="vc_custom_heading lighter-weight">3</p>
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top vc_custom_1444840925775">
+	<div class="wpb_wrapper">
+	<p style="text-align: center;"><span style="color: #999999;">Locations</span></p>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_custom_1444954832988"><div class="wpb_wrapper"><p style="font-size: 120px;color: #000000;line-height: 120px;text-align: center" class="vc_custom_heading lighter-weight">100</p>
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top vc_custom_1444840936524">
+	<div class="wpb_wrapper">
+	<p style="text-align: center;"><span style="color: #999999;">% Satisfaction</span></p>
+
+	</div>
+	</div>
+</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div></div></div><div class="cg-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444841192812"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1400" height="365" src="images/broker_montage.jpg" class="vc_single_image-img attachment-full" alt="broker_montage" srcset="images/broker_montage-300x78.jpg 300w, images/broker_montage-1024x267.jpg 1024w, images/broker_montage.jpg 1400w" sizes="(max-width: 1400px) 100vw, 1400px" /></div>
+	</figure>
+	</div>
+</div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444839048876"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top vc_custom_1444841143839">
+	<div class="wpb_wrapper">
+	<h2 style="text-align: center;">Why Choose Us?</h2>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444955115668"><div class="wpb_column vc_column_container vc_col-sm-4 vc_custom_1444954950021"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+	<div class="wpb_wrapper">
+	<div class="animate" data-animate="fadeInUp" style="text-align: center; font-size: 62px; color: #24A3D8;"><i class="ion-ios-checkmark-outline"></i></div>
+	</div>
+	</div>
+
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+<p style="font-size: 28px;color: #000000;line-height: 38px;text-align: center" class="vc_custom_heading lighter-weight vc_custom_1445692267865">Experienced</p>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444905560632">
+	<div class="wpb_wrapper">
+	<p style="text-align: center;"><span style="color: #999999;">We have over 20 years experience providing expert financial advice.<br />
+</span></p>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_custom_1444954957876"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+	<div class="wpb_wrapper">
+	<div class="animate" data-animate="fadeInUp" style="text-align: center; font-size: 62px; color: #24A3D8;"><i class="ion-ios-pulse"></i></div>
+	</div>
+	</div>
+
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+<p style="font-size: 28px;color: #000000;line-height: 38px;text-align: center" class="vc_custom_heading lighter-weight vc_custom_1445692286588">Vibrant</p>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1446066438440">
+	<div class="wpb_wrapper">
+	<p style="text-align: center;"><span style="color: #999999;">A young, enthusiastic team of advisors are always here to help.<br />
+</span></p>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_custom_1444954966247"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+	<div class="wpb_wrapper">
+	<div class="animate" data-animate="fadeInUp" style="text-align: center; font-size: 62px; color: #24A3D8;"><i class="ion-ios-infinite-outline"></i></div>
+	</div>
+	</div>
+
+<div class="separator  small center " style="background-color:#e2e2e2;height:1px;">
+</div>
+<p style="font-size: 28px;color: #000000;line-height: 38px;text-align: center" class="vc_custom_heading lighter-weight vc_custom_1445692352602">Professional</p>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444909338135">
+	<div class="wpb_wrapper">
+	<p style="text-align: center;"><span style="color: #999999;">Our financial specialists ensure you get the optimum results.<br />
+</span></p>
+
+	</div>
+	</div>
+</div></div></div></div><div class="cg-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444955899141"><div class="container"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<h2 style="text-align: center; margin-top: 0px;"><span style="color: #ffffff;">Testimonials</span></h2>
+<p style="font-size: 22px; text-align: center; font-weight: 300;"><span style="color: #8e9093;">Here&#8217;s what just some of our clients have said</span></p>
+
+	</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1444836754783"><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444955077811"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1444903945400">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<div class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/b_testimonial01-300x214.jpg" class="vc_single_image-img attachment-medium" alt="b_testimonial01" /></div>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<p><span style="color: #ffffff;">Their advice and support has been first class, I can&#8217;t thank them enough for how they helped.</span></p>
+<h6><span style="color: #8e9093;">John Walsh — Columbus, Ohio</span></h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444955084492"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1444903958536">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<div class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/b_testimonial02-300x214.jpg" class="vc_single_image-img attachment-medium" alt="b_testimonial02" /></div>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<p><span style="color: #ffffff;">My firm has been greatly helped by the excellent work from Broker, you won&#8217;t be disappointed.</span></p>
+<h6><span style="color: #8e9093;">Nadia Lopez — Heuston, Texas</span></h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444955091390"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1444904027741">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<div class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/b_testimonial03-300x214.jpg" class="vc_single_image-img attachment-medium" alt="b_testimonial03" /></div>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<p><span style="color: #ffffff;">For financial assistance I can&#8217;t recommend Broker enough, I&#8217;ve been delighted by the outcome.</span></p>
+<h6><span style="color: #8e9093;">Jack Maguire — Manhattan, New York</span></h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_custom_1444955100120"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1444904114145">
+	
+	<figure class="wpb_wrapper vc_figure">
+	<div class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="214" src="images/b_testimonial04-300x214.jpg" class="vc_single_image-img attachment-medium" alt="b_testimonial04" /></div>
+	</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<p><span style="color: #ffffff;">Broker has been marvelous for my business, their professionalism has been exemplary.</span></p>
+<h6><span style="color: #8e9093;">Louise Smith — LA, California</span></h6>
+
+	</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="cg-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444931459467"><div class="container"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><p style="font-size: 36px;color: #ffffff;line-height: 46px;text-align: center" class="vc_custom_heading lighter-weight vc_custom_1445612266879">For expert financial advice you can trust Broker</p></div></div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1444925762706"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<h3>Our Partners</h3>
+
+	</div>
+	</div>
+        
+	<script type="text/javascript">
+
+	jQuery(document).ready(function($) {
+
+	$("#owlslider_2039307224").owlCarousel({
+	autoPlay: 4000, 
+	items : 5,
+	pagination : false,
+	stopOnHover : true,
+	itemsDesktop : [1199,4],
+	itemsDesktopSmall : [979,3]
+	}); 
+	});
+
+	</script>
+
+<div class="cg-logos">
+	<div class="row">
+	<div id="owlslider_2039307224" class="owl-carousel">
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_h.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_g.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_f.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_e.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_d.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#null">
+	<img alt="logo" src="images/b_logo_c.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_b.jpg">
+	</a>
+	</div>
+
+	
+	
+	<div class="item">
+	<a href="#">
+	<img alt="logo" src="images/b_logo_a.jpg">
+	</a>
+	</div>
+
+	
+	
+	</div>
+	</div>
+</div>
+
+</div></div></div></div><div class="container"><div class="vc_row wpb_row vc_row-fluid shadow vc_custom_1445342217792"><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1444955234590"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<h3 style="text-align: center;">Request a Call Back</h3>
+
+	</div>
+	</div>
+
+<div class="separator  small center " style="background-color:#6bc3f0;height:1px;">
+</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1444934337217">
+	<div class="wpb_wrapper">
+	<p>Would you like to speak to one of our financial advisers over the phone? Just submit your details and we&#8217;ll be in touch shortly. You can also <a href="#">email us</a> if you would prefer.</p>
+<p style="margin: 25px 0px;"><strong>For Businesses:</strong> Do you have questions about how Broker can help your company? Send us an email and we’ll get in touch shortly, or phone 1800 234 567 between 07:30 and 19:00 Monday to Friday — we would be delighted to speak.</p>
+<h6>Note: Your details are kept strictly confidential as per our Privacy Policy.</h6>
+
+	</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1444925441546"><div class="wpb_wrapper"><div role="form" class="wpcf7" id="wpcf7-f70478-p5-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f70478-p5-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="70478" />
+<input type="hidden" name="_wpcf7_version" value="4.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f70478-p5-o1" />
+<input type="hidden" name="_wpnonce" value="b83e786998" />
+</div>
+<p>Your Name:<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>I would like to discuss:<br />
+<span class="wpcf7-form-control-wrap discuss-topic"><select name="discuss-topic" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Investment Opportunities">Investment Opportunities</option><option value="Personal Finance">Personal Finance</option><option value="Stock Trading">Stock Trading</option><option value="Retirement">Retirement</option><option value="Other">Other</option></select></span></p>
+<p>Your Email: <span class="hint">Optional</span><br />
+<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="e.g. john@gmail.com" /></span></p>
+<p>Your Phone Number:<br />
+<span class="wpcf7-form-control-wrap your-phone"><input type="tel" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></div>
+	    </div><!-- .entry-content -->
+
+</article><!-- #post-## -->
+	<div class="container">
+	</div>
+	</div><!-- #primary -->
+</div>
+</div><!--/page-container -->
+
+</div><!--/wrapper-->
+</div><!-- close #cg-page-wrap -->
+
+
+
+
+<footer class="footercontainer"> 
+	<div class="first-footer">
+	<div class="container">
+	<div class="row">
+	<div id="text-8" class="widget-1 widget-first widget-odd col-lg-3 col-md-3 col-sm-12 col-xs-12 col-nr-3 widget_text"><div class="widget-1 widget-first widget-odd inner-widget-wrap">	<div class="textwidget"><img src="images/broker-logo-w.png" class="logo" alt="Broker Logo" style="display: block; max-width: 180px; margin-bottom: 18px; margin-top: -4px;" />
+
+<p style="margin-right: 10px;">We provide expert financial advice to both individuals and businesses. With over 20 years of experience we’ll ensure that you’re always getting the best guidance from the top people in the entire industry.</p></div>
+	</div></div><div id="text-7" class="widget-2 widget-even col-lg-3 col-md-3 col-sm-12 col-xs-12 col-nr-3 widget_text"><div class="widget-2 widget-even inner-widget-wrap"><h4 class="widget-title"><span>Explore</span></h4>	<div class="textwidget"><div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6">
+<ul class="border">
+<li><a href="http://broker.commercegurus.com">Home</a></li>
+<li><a href="http://broker.commercegurus.com/about-us">About Us</a></li>
+<li><a href="http://broker.commercegurus.com/services">Services</a></li>
+<li><a href="http://broker.commercegurus.com/testimonials">Testimonials</a></li>
+<li><a href="http://broker.commercegurus.com/news">News</a></li>
+<li><a href="http://broker.commercegurus.com/contact-us">Contact Us</a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<ul>
+<li><a href="http://broker.commercegurus.com/services/bonds/">Bonds</a></li>
+<li><a href="http://broker.commercegurus.com/services/commodities/">Commodities</a></li>
+<li><a href="http://broker.commercegurus.com/services/investment-trusts/">Investments</a></li>
+<li><a href="http://broker.commercegurus.com/services/retirement/">Retirement</a></li>
+<li><a href="http://broker.commercegurus.com/services/stocks/">Stocks</a></li>
+<li><a href="http://broker.commercegurus.com/services/trades/">Trades</a></li>
+</ul>
+</div>
+</div></div>
+	</div></div>	<div id="recent-posts-4" class="widget-3 widget-odd col-lg-3 col-md-3 col-sm-12 col-xs-12 col-nr-3 widget_recent_entries"><div class="widget-3 widget-odd inner-widget-wrap">	<h4 class="widget-title"><span>Recent News</span></h4>	<ul>
+	<li>
+	<a href="http://broker.commercegurus.com/2015/10/07/making-cents-of-online-investment-services/">Making Cents of Online Investment Services &#8211; Which is Best?</a>
+	<span class="post-date">October 7, 2015</span>
+	</li>
+	<li>
+	<a href="http://broker.commercegurus.com/2015/10/07/ease-your-way-in-to-the-stock-market/">Ease Your Way In To The Global Stock Market</a>
+	<span class="post-date">October 7, 2015</span>
+	</li>
+	</ul>
+	</div></div>	<div id="text-9" class="widget-4 widget-last widget-even col-lg-3 col-md-3 col-sm-12 col-xs-12 col-nr-3 widget_text"><div class="widget-4 widget-last widget-even inner-widget-wrap"><h4 class="widget-title"><span>Our Newsletter</span></h4>	<div class="textwidget"><!-- MailChimp for WordPress v2.3.17 - https://wordpress.org/plugins/mailchimp-for-wp/ --><div id="mc4wp-form-1" class="form mc4wp-form"><form method="post" ><p>
+	<label>Email address: </label>
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+
+<p>
+	<input type="submit" value="Sign up" />
+</p><div style="display: none;"><input type="text" name="_mc4wp_ho_e32871cb95e13e2a159785dfae8ced45" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1460071782" /><input type="hidden" name="_mc4wp_form_id" value="0" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><input type="hidden" name="_mc4wp_form_submit" value="1" /><input type="hidden" name="_mc4wp_form_nonce" value="1979dcb454" /></form></div><!-- / MailChimp for WordPress Plugin -->
+
+<hr/>
+
+<a href="http://themeforest.net/item/broker-business-and-finance-wordpress-theme/13370245?ref=commercegurus" class="theme-buy">Get the Theme &nbsp; &rarr;</a></div>
+	</div></div>   
+	</div><!-- /.row -->
+	</div><!-- /.container -->
+	</div><!-- /.lightwrapper -->
+	
+	<div class="second-footer">
+	<div class="container">
+	<div class="row">
+                    <div class="divider"></div>
+	<div id="text-2" class="widget-1 widget-first widget-odd col-lg-6 col-md-6 col-sm-12 col-xs-12 widget_text">	<div class="textwidget"><ul class="inline">
+<li class="facebook"><a href="#">Facebook</a></li>
+<li class="twitter"><a href="#">Twitter</a></li>
+<li class="linkedin"><a href="#">LinkedIn</a></li>
+<li class="google-plus"><a href="#">Google+</a></li>
+</ul></div>
+	</div><div id="text-3" class="widget-2 widget-last widget-even col-lg-6 col-md-6 col-sm-12 col-xs-12 widget_text">	<div class="textwidget"><ul class="inline right">
+<li><a href="http://broker.commercegurus.com/site/legal/">Legal</a></li>
+<li><a href="http://broker.commercegurus.com/site/sitemap">Sitemap</a></li>
+<li><a href="http://broker.commercegurus.com/site/privacy-policy">Privacy Policy</a></li>
+</ul></div>
+	</div>            
+	</div><!-- /.row -->
+	</div><!-- /.container -->
+	</div><!-- /.subfooter -->
+	
+</footer>
+
+
+
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+            	<div class="bottom-footer-left col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="footer-copyright">© 2016 Your Site Name</div>                </div>
+                
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.footer -->
+
+	<a href="#0" class="cd-top">Top</a>
+
+<div id="live-preview" class="default" style="margin-left: -202px;">   
+   <div id="live-preview-admin">
+	<h5>Style Switcher</h5>
+	<div class="live-preview-admin-box">
+	<div>
+	<p class="title">Main Layout</p>
+	<div class="area">
+	<ul id="tootlbar_boxed" class="choose_option">
+	<li class="full-width" data-value=""><div class="box fullwidth"></div>Full Width</li>
+	<li class="boxed" data-value="boxed"><div class="box contained"></div>Boxed</li>
+	
+	</ul>
+	</div>
+	
+	<p class="title border">Primary Color</p>
+	<div class="area">
+	<div id="tootlbar_colors">
+	<ul>
+	<li><div class="color active" data-color="blue" style="background-color:#24A3D8;"></div></li>
+	<li><div class="color color2" data-color="red" style="background-color:#d94707;"></div></li>
+	<li><div class="color color4" data-color="green" style="background-color:#59a148;"></div></li>
+	<li><div class="color color4" data-color="purple" style="background-color:#8572a4;"></div></li>
+	</ul>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<a class="open" href="#"><span><i class="fa fa-cogs"></i></span></a>
+</div><img src="images/award-nominee-cssda-80-r.png" alt="CSS Design Awards Nominee" id="css-awards">
+
+<a target="_blank" href="http://themeforest.net/item/broker-business-and-finance-wordpress-theme/13370245?ref=commercegurus&license=regular&open_purchase_for_item_id=12603579&purchasable=source" id="footer-sales">
+ Get the Theme</a>
+
+<style>
+
+#css-awards {
+position: fixed;
+right: -3px;
+top: 160px;
+z-index: 9;
+width: 50px;
+}
+
+#footer-sales { 
+position: fixed;
+bottom: 0px;
+right: 80px;
+z-index: 10;
+padding: 4px 13px;
+color: #fff;
+font-size: 13px;
+background-color: #232323; 
+border-top-left-radius: 2px;
+border-top-right-radius: 2px;
+}
+
+#footer-sales:hover {
+background-color: #111;
+}
+
+@media (max-width: 768px) { 
+#footer-sales, #css-awards { display: none; }
+}
+
+</style>    <!-- Start of StatCounter Code -->
+    <script>
+    <!-- 
+        var sc_project=10674314; 
+        var sc_security="5014f5ce"; 
+      var sc_invisible=1;
+        var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+    //-->
+document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/10674314/0/5014f5ce/1/" alt="web analytics" /></a></div></noscript>   
+    <!-- End of StatCounter Code -->
+<link rel='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css'  href='//fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&#038;ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/broker.commercegurus.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/scripts.js?ver=4.3'></script>
+<script type='text/javascript' src='js/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/woocommerce.min.js?ver=2.4.8'></script>
+<script type='text/javascript' src='js/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/cart-fragments.min.js?ver=2.4.8'></script>
+<script type='text/javascript' src='js/waypoints.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/bootstrap.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/jquery.magnific-popup.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/inewsticker.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/imagesloaded.pkgd.min.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cg_ajax = {"cg_ajax_url":"http:\/\/broker.commercegurus.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/cg_quickview.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/plugins.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/cgdynamic.php?ver=4.4.2'></script>
+<script type='text/javascript' src='js/jquery-ui.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/livepreview.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/commercegurus.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/wp-embed.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='js/js_composer_front.js?ver=4.8.1'></script>
+<script type='text/javascript' src='js/waypoints.min.js?ver=4.8.1'></script>
+<script type="text/javascript">(function() {
+	function addSubmittedClassToFormContainer(e) {
+	var form = e.target.form.parentNode;
+	var className = 'mc4wp-form-submitted';
+	(form.classList) ? form.classList.add(className) : form.className += ' ' + className;
+	}
+
+	function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+	this.value = "http://" + this.value;
+	}
+	}
+
+	var forms = document.querySelectorAll('.mc4wp-form');
+	for (var i = 0; i < forms.length; i++) {
+	(function(f) {
+
+	/* add class on submit */
+	var b = f.querySelector('[type="submit"], [type="image"]');
+	if( b ) {
+	if(b.addEventListener) {
+	b.addEventListener('click', addSubmittedClassToFormContainer);
+	} else {
+	b.attachEvent('click', addSubmittedClassToFormContainer);
+	}
+	}
+
+	/* better URL fields */
+	var urlFields = f.querySelectorAll('input[type="url"]');
+	if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+	if(urlFields[j].addEventListener) {
+	urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	} else {
+	urlFields[j].attachEvent( 'blur', maybePrefixUrlField);
+	}
+	}
+	}
+
+	})(forms[i]);
+	}
+})();
+
+</script></body>
+</html>woocommerce-page ul.products li.product .button:hover,
+	#secondary .widget_recent_entries ul li a:hover
+
+	{
